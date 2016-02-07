@@ -8,3 +8,11 @@ How migh using version control make you more confident to make changes that coul
 - I can fall back to previous version and make out mistake immediately. Even the task of comparing becomes easy.
 What happens when you initialize a repository? Why do you need to do it?
 - all files are considered in repository and I need to do it to track the history of changes.
+How can you use staging area to make sure you have one commit per logical change
+-with staging area can see which changes I have commited in working directory and so it makes
+easy to make commit per logical change
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- When introducing new version of the programe with added features, while experimenting, why changing levels of the programm.
+In short when there is going to be a major change but not in line with what has been developed till now.
+How do the diagrams help you visualize the branch structure?
+- it helps me by telling which branch structure is labeled and so is traceable and which one is not.
