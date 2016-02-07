@@ -1,0 +1,10 @@
+How did viewing a diff between two versions help you spot the bug?
+- It tells me about what additions have made to new file. I can check only those line to see if I have made any typo. Same with the information I have deleted. It highlights the files which I have deleted so I look at those lines and can check if I have deleted any importatnt information by mistake. It saves lot of time and energy as I do not need to go through the whole file looking for bug. The bug was not there before so I just need to check the changes which I have made. And function "diff" makes it easy.
+As a programmer, when would you want to have version of your code saved?
+- Whenever a large enough change is made.
+How can u use the command git log and git diff to view the history of files
+- with git log its easy to identify the summary of changes as commits have there titles and with git diff its easy to make out difference made between two files. So its easy to analyse the history fo the file.
+How migh using version control make you more confident to make changes that could break something?
+- I can fall back to previous version and make out mistake immediately. Even the task of comparing becomes easy.
+What happens when you initialize a repository? Why do you need to do it?
+- all files are considered in repository and I need to do it to track the history of changes.
